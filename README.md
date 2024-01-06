@@ -1,6 +1,26 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+
+ O primeito desafio da trilha `.NET` do Decola Tech Avanade 4ª Edição 2024. 
+
+## Resultado do Projeto
+<img>
+
+## Tecnologias Utilizadas
+
+| Linguagens de Programação | Ferramentas e Tecnologias |
+| :-----------------: | :-----------------------: |
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/C%23.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/dotnet.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/NodeJS-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
+
+
+
+
+
+
+
+
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
